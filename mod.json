@@ -1,0 +1,10 @@
+{
+    "Name": "Arty",
+    "Description": "Arty strike",
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "HasWebUI": false,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
